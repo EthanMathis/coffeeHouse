@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.shop {
+    border: 5px solid slateblue;
+    padding: 10px;
+    margin: 15px;
+    
+    text-align: center;
+    
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+    
+}
